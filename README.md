@@ -23,6 +23,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +32,5 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 <!---LeetCode Topics End-->
