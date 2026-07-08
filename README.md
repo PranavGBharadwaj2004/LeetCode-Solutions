@@ -27,6 +27,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
