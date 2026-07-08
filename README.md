@@ -26,6 +26,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0004-median-of-two-sorted-arrays](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
+| [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0005-longest-palindromic-substring](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
