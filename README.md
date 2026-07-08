@@ -39,6 +39,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0053-maximum-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -73,6 +74,7 @@ My accepted LeetCode solutions, auto-synced.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0091-decode-ways](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
