@@ -27,6 +27,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0053-maximum-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0740-delete-and-earn](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
@@ -38,6 +39,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0053-maximum-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0740-delete-and-earn](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
