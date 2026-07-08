@@ -30,6 +30,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0152-maximum-product-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0740-delete-and-earn](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Dynamic Programming
@@ -43,6 +44,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0152-maximum-product-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0740-delete-and-earn](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Greedy
@@ -92,4 +94,8 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
