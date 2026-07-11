@@ -94,6 +94,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0005-longest-palindromic-substring](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0049-group-anagrams](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
+| [0125-valid-palindrome](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0125-valid-palindrome](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
