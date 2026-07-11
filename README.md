@@ -33,6 +33,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0174-dungeon-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0740-delete-and-earn](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -78,6 +79,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0217-contains-duplicate](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0740-delete-and-earn](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -116,4 +118,8 @@ My accepted LeetCode solutions, auto-synced.
 | [0063-unique-paths-ii](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0174-dungeon-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
