@@ -90,6 +90,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0128-longest-consecutive-sequence](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0740-delete-and-earn](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0049-group-anagrams](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +163,8 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
