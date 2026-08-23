@@ -1,20 +1,13 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        left, right = 0, len(s) - 1
-        
-        while left < right:
-            # Move left pointer forward until an alphanumeric char is found
-            while left < right and not s[left].isalnum():
-                left += 1
-            # Move right pointer backward until an alphanumeric char is found
-            while left < right and not s[right].isalnum():
-                right -= 1
-            
-            # Compare characters after converting to lowercase
-            if s[left].lower() != s[right].lower():
+        i, j = 0, len(s) - 1
+        while i < j:
+            while i < j and not s[i].isalnum():
+                i += 1
+            while i < j and not s[j].isalnum():
+                j -= 1
+            if s[i].lower() != s[j].lower():
                 return False
-            
-            left += 1
-            right -= 1
-            
+            i += 1
+            j -= 1
         return True
