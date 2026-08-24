@@ -40,6 +40,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0217-contains-duplicate](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0724-find-pivot-index](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0740-delete-and-earn](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Dynamic Programming
@@ -167,4 +168,8 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
