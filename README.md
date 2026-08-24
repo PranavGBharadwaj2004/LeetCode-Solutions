@@ -79,6 +79,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0013-roman-to-integer](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0005-longest-palindromic-substring](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0067-add-binary](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0091-decode-ways](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -174,4 +176,12 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
