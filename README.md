@@ -15,6 +15,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0069-sqrtx](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0099-recover-binary-search-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Tree
@@ -80,6 +81,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0062-unique-paths](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -202,4 +204,8 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
