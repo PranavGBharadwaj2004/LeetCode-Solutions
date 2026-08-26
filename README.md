@@ -34,6 +34,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0063-unique-paths-ii](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0118-pascals-triangle](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -58,6 +59,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0064-minimum-path-sum](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
+| [0118-pascals-triangle](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0174-dungeon-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
