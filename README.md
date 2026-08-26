@@ -87,10 +87,12 @@ My accepted LeetCode solutions, auto-synced.
 | [0067-add-binary](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0231-power-of-two](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0231-power-of-two](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0231-power-of-two](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
