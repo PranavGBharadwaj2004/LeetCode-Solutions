@@ -77,6 +77,7 @@ My accepted LeetCode solutions, auto-synced.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
