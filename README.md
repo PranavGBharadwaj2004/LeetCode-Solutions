@@ -77,6 +77,7 @@ My accepted LeetCode solutions, auto-synced.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0013-roman-to-integer](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -135,6 +137,7 @@ My accepted LeetCode solutions, auto-synced.
 | [0005-longest-palindromic-substring](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Memoization
@@ -219,4 +222,8 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
