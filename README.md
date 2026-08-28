@@ -8,12 +8,14 @@ My accepted LeetCode solutions, auto-synced.
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -28,6 +30,7 @@ My accepted LeetCode solutions, auto-synced.
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -154,6 +157,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 ## Combinatorics
