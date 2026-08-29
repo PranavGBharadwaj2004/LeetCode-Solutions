@@ -1,16 +1,22 @@
 class Solution:
     def reverse(self, x: int) -> int:
+        INT_MAX = 2**31 - 1        # 2147483647
+        INT_MIN = -2**31           # -2147483648
+
         sign = -1 if x < 0 else 1
-        x = abs(x)
-        
-        reversed_x = 0
-        while x != 0:
-            reversed_x = reversed_x * 10 + (x % 10)
-            x //= 10
-            
-        reversed_x *= sign
-        
-        if reversed_x < -2**31 or reversed_x > 2**31 - 1:
-            return 0
-            
-        return reversed_x
+        x_abs = -x if x < 0 else x
+
+        res = 0
+        limit = INT_MAX if sign == 1 else -INT_MIN  # 2147483647 or 2147483648
+
+        while x_abs != 0:
+            pop = x_abs % 10
+            x_abs //= 10
+
+            # Check overflow before multiplying by 10 and adding pop
+            if res > limit // 10 or (res == limit // 10 and pop > limit % 10):
+                return 0
+
+            res = res * 10 + pop
+
+        return sign * res
